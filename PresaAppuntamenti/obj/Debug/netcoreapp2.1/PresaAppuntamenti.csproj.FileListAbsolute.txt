@@ -1,0 +1,11 @@
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamenti\obj\Debug\netcoreapp2.1\PresaAppuntamenti.csprojAssemblyReference.cache
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamenti\obj\Debug\netcoreapp2.1\PresaAppuntamenti.csproj.CoreCompileInputs.cache
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamenti\obj\Debug\netcoreapp2.1\PresaAppuntamenti.AssemblyInfoInputs.cache
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamenti\obj\Debug\netcoreapp2.1\PresaAppuntamenti.AssemblyInfo.cs
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamenti\bin\Debug\netcoreapp2.1\PresaAppuntamenti.deps.json
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamenti\bin\Debug\netcoreapp2.1\PresaAppuntamenti.runtimeconfig.json
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamenti\bin\Debug\netcoreapp2.1\PresaAppuntamenti.runtimeconfig.dev.json
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamenti\bin\Debug\netcoreapp2.1\PresaAppuntamenti.dll
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamenti\bin\Debug\netcoreapp2.1\PresaAppuntamenti.pdb
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamenti\obj\Debug\netcoreapp2.1\PresaAppuntamenti.dll
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamenti\obj\Debug\netcoreapp2.1\PresaAppuntamenti.pdb

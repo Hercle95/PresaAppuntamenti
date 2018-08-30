@@ -1,0 +1,17 @@
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\bin\Debug\netcoreapp2.1\PresaAppuntamenti.dll
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\obj\Debug\netcoreapp2.1\PresaAppuntamentiTest.csprojAssemblyReference.cache
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\obj\Debug\netcoreapp2.1\PresaAppuntamentiTest.csproj.CoreCompileInputs.cache
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\obj\Debug\netcoreapp2.1\PresaAppuntamentiTest.AssemblyInfoInputs.cache
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\obj\Debug\netcoreapp2.1\PresaAppuntamentiTest.AssemblyInfo.cs
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\bin\Debug\netcoreapp2.1\PresaAppuntamentiTest.deps.json
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\bin\Debug\netcoreapp2.1\PresaAppuntamentiTest.runtimeconfig.json
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\bin\Debug\netcoreapp2.1\PresaAppuntamentiTest.runtimeconfig.dev.json
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\bin\Debug\netcoreapp2.1\PresaAppuntamentiTest.dll
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\bin\Debug\netcoreapp2.1\PresaAppuntamentiTest.pdb
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\bin\Debug\netcoreapp2.1\PresaAppuntamenti.pdb
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\obj\Debug\netcoreapp2.1\PresaAppuntamentiTest.csproj.CopyComplete
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\obj\Debug\netcoreapp2.1\PresaAppuntamentiTest.dll
+C:\Users\Prog1\source\repos\PresaAppuntamenti\PresaAppuntamentiTest\obj\Debug\netcoreapp2.1\PresaAppuntamentiTest.pdb
